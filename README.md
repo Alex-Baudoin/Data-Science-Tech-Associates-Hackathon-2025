@@ -1,6 +1,8 @@
 # Data-Science-Tech-Associates-Hackathon-2025
 This work was done for the purpose of the Data Science Tech Associates Hackathon organized by the Rwanda ICT Chamber.
 
+The pictures in the second part of my work can't be displayed here, so I advised the reader to open it locally or on kaggle. 
+
 The project description can be found below: 
 
 Rwanda has recently shifted towards a distance-based fare pricing model in public transport, replacing flat-rate fares. While intended to create a fairer and more sustainable transport system, the change has sparked varied reactions from the public across social media, forums, and other communication channels.
